@@ -30,3 +30,7 @@ In order to find interesting facts about the ratings and the behavior of people 
 - Time
 - Re
 - Scikit-Learn
+- Requests
+- Os
+- Tweepy
+- Json
