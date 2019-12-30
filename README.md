@@ -1,14 +1,14 @@
-# Exploration of the FBI NICS dataset
+# Exploration of WeRateDogs Tweets from Twitter API
 This project is part of the Udacity Data Analyst Nanodegree program.
 
 ### Project Status
 Completed
 
 ## Project Intro
-The purpose of this project is to acquire skills in data wrangling, data cleaning and exploratory data analysis
+The purpose of this project is to train skills in data gathering, data wrangling, data cleaning, exploratory data analysis making conclusions and presenting findings.
 
 ## Project Description
-In order to explore the possibility of influence of some socioeconomic parameters on gun sales in the US I used the FBI NICS dataset and a US census data set. Despite the fact that US citizens seem to see owing guns as their innate right there seem to be differences in using this right throughout the US. In order to better understand which socioeconomic factors might be associated with this varying behaviour I will explore some questions related to gun sales like which variables from the uS census data are correlated to gun sales, the trend of gun sales between 2010 and 2016, the states with the highest and lowest gun sales and the association of females, foreign born persons, house owners, wealth and education with gun sales.
+In order to find interesting facts about the ratings and the behavior of people participating in WeRateDogs data had to be gathered from various sources and they had to be analyzed and cleaned. Questions about interesting content had to be formulated. After an EDA the questions had to be answered. The gathering phase as well as the analysis phase had to be documented and presented in a pdf file. 
 
 ## Methods Used
 - Data Wrangling
@@ -18,6 +18,7 @@ In order to explore the possibility of influence of some socioeconomic parameter
 - Exploratory Data Analysis
 - Data Visualization
 - Correlation
+- Prediction
 
 ## Technologies Used
 - Jupyter Notebook
@@ -26,3 +27,6 @@ In order to explore the possibility of influence of some socioeconomic parameter
 - Pandas
 - Matplotlib
 - Seaborn
+- Time
+- Re
+- Scikit-Learn
